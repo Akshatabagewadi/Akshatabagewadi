@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akshata Bagewadi
 
-### 💻 Software Engineer | Java Full Stack Developer
+### 💻 Software Engineer | Java Full Stack Developer | Data analytics
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2589D8&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+MySQL;Building+Practical+Software+Solutions;Turning+Ideas+Into+Code!" alt="Animated introduction" />
